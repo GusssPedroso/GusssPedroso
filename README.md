@@ -16,6 +16,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" align="center" title="Dart" alt="Dart" height="30" width="40" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" align="center" title="Flutter" alt="Flutter" height="30" width="30" height="40"/>&nbsp;
+  <img src="https://github.com/marwin1991/profile-technology-icons/blob/main/icons/swift.png" align="center" title="Flutter" alt="Flutter" height="30" width="30" height="40"/>&nbsp;
 </div>
 <a>-----------------------------------------------------------------------------------------------------</a>
 <div> 
