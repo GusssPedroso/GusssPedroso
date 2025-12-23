@@ -2,7 +2,7 @@
 
 
 - From 🇧🇷
--  I’m currently working with JavaScript and Node.JS
+-  My Objective is be a Mobile + Back-end Dev 🤓
 - 📚 learning Mobile Development 
 - 💬 Languages: Portuguese - Maternal, Inglês - Fluent, Spanish - basic
 - About me:
