@@ -3,7 +3,7 @@
 
 - From 🇧🇷
 -  My goal is to become a back-end developer. 🤓
-- 📚 learning Mobile Development 
+- 📚 learning Python with Django
 - 💬 Languages: Portuguese - Maternal, Inglês - Fluent, Spanish - basic
 - About me:
 🎶 Music Lover | 
