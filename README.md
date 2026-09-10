@@ -2,7 +2,7 @@
 
 
 - From 🇧🇷
--  My Objective is be a Mobile + Back-end Dev 🤓
+-  My goal is to become a back-end developer. 🤓
 - 📚 learning Mobile Development 
 - 💬 Languages: Portuguese - Maternal, Inglês - Fluent, Spanish - basic
 - About me:
